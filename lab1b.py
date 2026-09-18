@@ -14,11 +14,11 @@ print(type(num2))
 num1 = int(num1);
 num2 = int(num2);
 
-print("num1 + num2 = " num1 + num2)
-print("num1 + num2 = " num1 - num2)
-print("num1 + num2 = " num1 * num2)
-print("num1 + num2 = " num1 / num2)
-print("num1 + num2 = " num1 % num2)
+print("num1 + num2 = ", num1 + num2)
+print("num1 - num2 = ", num1 - num2)
+print("num1 * num2 = ", num1 * num2)
+print("num1 / num2 = ", num1 / num2)
+print("num1 % num2 = ", num1 % num2)
 
 # TO-DO 1:
 #	Create a variable called "num1", take its value from user.
